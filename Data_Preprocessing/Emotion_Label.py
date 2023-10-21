@@ -8,6 +8,7 @@ from nltk.stem import PorterStemmer
 from tqdm import tqdm
 from langdetect import detect
 import pickle
+import torch
 
 model_name='google/flan-t5-base'
 model = AutoModelForSeq2SeqLM.from_pretrained(model_name)
