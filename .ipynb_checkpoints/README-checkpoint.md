@@ -1,5 +1,5 @@
 # Milestone 2
-The Code is tested under Google Colab with both CPU and T4 environments, and we strongly recommend using Colab to run our code.
+The Code is tested under Google Colab with both CPU and T4 environments, and we strongly recommend using Colab to run our code. Please use your UM Email to open the Colab links below.
 
 ## Supervised learning
 
