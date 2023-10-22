@@ -1,4 +1,7 @@
 # Milestone 2
+
+### By Patrick Thornton, Braedon Shick, Pu Zeng
+
 The Code is tested under Google Colab with both CPU and T4 environments, and we strongly recommend using Colab to run our code. Please use your UM Email to open the Colab links below.
 
 ## Supervised learning
