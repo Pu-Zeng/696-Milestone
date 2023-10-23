@@ -22,6 +22,7 @@ The Code is tested under Google Colab with both CPU and T4 environments, and we 
 
 **4. CNN Emotion Classificaton**
 - We recommand using T4 for this notebook, as transformers are needed to generate the labels.
+- **Due to the size of this model, the evaluation code of the ensembled model may only work with Colab HIGH-RAM mode. If you are not a Colab Pro, Please use only one model for evaluation**
 
 - https://colab.research.google.com/drive/11hK8EbE94ZXcOvYemIleYNVEHwC0VzWQ
 
