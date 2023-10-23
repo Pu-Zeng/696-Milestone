@@ -2,7 +2,7 @@
 
 ### By Patrick Thornton, Braedon Shick, Pu Zeng
 
-The Code is tested under Google Colab with both CPU and T4 environments, and we strongly recommend using Colab to run our code. Please use your UM Email to open the Colab links below.
+The Code is tested under Google Colab with both CPU and T4 environments, while some of which may not be able to run completely due to the limit of the memory. We strongly recommend using Colab to run our code. Please use your UM Email to open the Colab links below.
 
 ## Supervised learning
 
@@ -16,7 +16,7 @@ The Code is tested under Google Colab with both CPU and T4 environments, and we 
 - https://colab.research.google.com/drive/1mM1gr5zNGnKEmYkOrF5Rdiw6beGFqpMM
 
 **3. RNN Genre Classification**
-- Both CPU or T4 will take a super long time to train the model. We recommand using V100/A100 to train the model.
+- **We trined this model with Colab V100 in HIGH-RAM mode. Both CPU or T4 will take a super long time to train the model and perhaps run out of memory if not in HIGH-RAM mode. If your are not a Colab Pro, please stop at the first validation stage, and uncomment the cell below to use the first model for evaluation.**
 
 - https://colab.research.google.com/drive/1PHJQzMdMgTzsmX-byRvSU8atASMQyLDT
 
