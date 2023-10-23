@@ -6,6 +6,10 @@ The Code is tested under Google Colab with both CPU and T4 environments, and we 
 
 ## Supervised learning
 
+**1. Spotify Classification**
+- Only CPU is needed.
+- https://colab.research.google.com/drive/1ZXcR0mMVhKqa9xc0EJSDf_8ezs6dncDN
+
 **2. CNN Genre Classification**
 - We recommand using T4 for this code.
 
